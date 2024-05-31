@@ -1,0 +1,7 @@
+
+1) Créer un fichier en local
+2) Indexer les fichiers : git add NOMFICHIER
+3) Commit : git commit -m "message de version"
+4) Push : git push origin main -m (la page est uniquement visible dans la branche main)
+
+
